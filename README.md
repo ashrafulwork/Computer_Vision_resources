@@ -14,3 +14,7 @@ Research Paper YT: https://www.youtube.com/@OpenlifesciAI/videos
 
 **Learning Pytorch**<br>
 https://www.youtube.com/watch?v=Z_ikDlimN6A&t=89037s
+
+COCO dataset: https://cocodataset.org/#explore
+
+https://docs.ultralytics.com/datasets/detect/coco/
