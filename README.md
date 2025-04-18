@@ -23,6 +23,8 @@ Research papers (for learning/ basics)
 
 Dropout: A Simple Way to Prevent Neural Networks from Overfitting - > https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf<br><br>
 
+Convo Demo : https://deeplizard.com/resource/pavq7noze2 <br><br>
+
 https://proceedings.neurips.cc/paper/2013/file/71f6278d140af599e06ad9bf1ba03cb0-Paper.pdf<br><br>
 https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=772891a6a2955f4927d16c9e8690419e75d54310<br><br>
 https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=04d0b6952a4f0c7203577afc9476c2fcab2cba06<br><br>
