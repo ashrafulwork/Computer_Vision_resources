@@ -1,6 +1,11 @@
 # Computer_Vision_resources
 All the useful materials related to Deep Learning and Computer Vision
 
+
+Keras Functional Model | How to build non-linear Neural Networks?  https://www.youtube.com/watch?v=OvQQP1QVru8&t=1143s<br> <br>
+What is Transfer Learning? Transfer Learning in Keras | Fine Tuning Vs Feature Extraction: 
+https://www.youtube.com/watch?v=WWcgHjuKVqA&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=53 <br> <br>
+
 UCF CRCV : https://www.youtube.com/@UCFCRCV/playlists
 
 Daniel Bourke: https://www.youtube.com/@mrdbourke/videos
