@@ -27,6 +27,8 @@ Convo Demo : https://deeplizard.com/resource/pavq7noze2 <br><br>
 
 LeNet Paper: https://axon.cs.byu.edu/~martinez/classes/678/Papers/Convolution_nets.pdf <br><br>
 
+ImageNet Paper: https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html<br><br>
+
 https://proceedings.neurips.cc/paper/2013/file/71f6278d140af599e06ad9bf1ba03cb0-Paper.pdf<br><br>
 https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=772891a6a2955f4927d16c9e8690419e75d54310<br><br>
 https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=04d0b6952a4f0c7203577afc9476c2fcab2cba06<br><br>
