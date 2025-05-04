@@ -13,7 +13,7 @@ Daniel Bourke: https://www.youtube.com/@mrdbourke/videos
 
 Daniel Bourke ArXiV: https://www.youtube.com/@danielbourkearxiv2821/playlists<br><br><br>
 
-
+https://www.youtube.com/@ComputerVisionFoundation/videos<br><br><br>
 
 Research Paper YT: https://www.youtube.com/@OpenlifesciAI/videos
 
