@@ -34,6 +34,11 @@ LeNet Paper: https://axon.cs.byu.edu/~martinez/classes/678/Papers/Convolution_ne
 
 ImageNet Paper: https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html<br><br>
 
+
+AlexNet: https://www.youtube.com/watch?v=UZDiGooFs54<br><br>
+
+LSTM: https://www.youtube.com/watch?v=1yvBqasHLZs<br><br>
+
 VGG16 Neural Network Visualization: https://www.youtube.com/watch?v=RNnKtNrsrmg<br><br>
 
 ResNet: https://arxiv.org/abs/1512.03385<br><br>
