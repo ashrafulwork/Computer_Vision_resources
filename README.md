@@ -47,7 +47,7 @@ ResNet: https://arxiv.org/abs/1512.03385<br><br>
 Inception : https://arxiv.org/pdf/1409.4842<br><br>
 
 
-
+https://www.youtube.com/@danielkrei/videos
 
 
 https://proceedings.neurips.cc/paper/2013/file/71f6278d140af599e06ad9bf1ba03cb0-Paper.pdf<br><br>
