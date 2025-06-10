@@ -64,7 +64,7 @@ https://www.nature.com/articles/s41583-020-0277-3<br><br>
 https://link.springer.com/chapter/10.1007/978-3-642-61068-4_7<br><br>
 
 
-Robotics : https://www.youtube.com/@ArticulatedRobotics/videos<br><br>
+Robotics :<br><br> https://www.youtube.com/@ArticulatedRobotics/videos<br><br>
 https://www.youtube.com/@kevinwoodrobotics<br><br>
 https://www.youtube.com/@avb_fj/videos<br><br>
 https://www.youtube.com/@nikodembartnik<br><br>
@@ -72,3 +72,4 @@ https://www.youtube.com/@ibuildstuff/videos<br><br>
 https://www.youtube.com/@EveryFlavorRobot/videos<br><br>
 https://www.youtube.com/watch?v=uncBRM9-XZ4<br><br>
 https://www.youtube.com/watch?v=AR0qv9NpgYA<br><br>
+https://www.youtube.com/@DigitalSreeni/videos<br><br>
