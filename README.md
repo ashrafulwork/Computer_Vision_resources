@@ -2,6 +2,8 @@
 All the useful materials related to Deep Learning and Computer Vision<br> <br>
 CampusX (HINDI)- https://www.youtube.com/@campusx-official/featured<br> <br>
 
+https://arxiv.org/pdf/2410.17210<br> <br>
+
 Keras Functional Model | How to build non-linear Neural Networks?  https://www.youtube.com/watch?v=OvQQP1QVru8&t=1143s<br> <br>
 What is Transfer Learning? Transfer Learning in Keras | Fine Tuning Vs Feature Extraction: 
 https://www.youtube.com/watch?v=WWcgHjuKVqA&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=53 <br> <br>
@@ -93,6 +95,8 @@ pythontutor.com<br><br>
 https://www.youtube.com/@TechWithTim/videos<br><br>
 https://www.youtube.com/@TrelisResearch/videos<br><br>
 <br><br><br><br>
+
+
 
 Python and OOP - (Hindi)<br> <br>
 https://www.youtube.com/playlist?list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z<br> <br>
