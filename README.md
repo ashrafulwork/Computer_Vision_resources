@@ -4,6 +4,8 @@ CampusX (HINDI)- https://www.youtube.com/@campusx-official/featured<br> <br>
 
 https://arxiv.org/pdf/2410.17210<br> <br>
 
+https://www.youtube.com/@ComputerVisionFoundation <br> <br>
+
 Keras Functional Model | How to build non-linear Neural Networks?  https://www.youtube.com/watch?v=OvQQP1QVru8&t=1143s<br> <br>
 What is Transfer Learning? Transfer Learning in Keras | Fine Tuning Vs Feature Extraction: 
 https://www.youtube.com/watch?v=WWcgHjuKVqA&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&index=53 <br> <br>
