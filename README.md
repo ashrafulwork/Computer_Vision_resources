@@ -4,6 +4,8 @@ CampusX (HINDI)- https://www.youtube.com/@campusx-official/featured<br> <br>
 
 https://arxiv.org/pdf/2410.17210<br> <br>
 
+https://www.youtube.com/@EdjeElectronics/videos<br> <br>
+
 https://www.youtube.com/@ComputerVisionFoundation <br> <br>
 
 Keras Functional Model | How to build non-linear Neural Networks?  https://www.youtube.com/watch?v=OvQQP1QVru8&t=1143s<br> <br>
