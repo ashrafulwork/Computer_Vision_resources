@@ -6,7 +6,9 @@ https://arxiv.org/pdf/2410.17210<br> <br>
 
 https://www.youtube.com/@PyDataTV/videos<br><br>
 
-https://www.youtube.com/@EdjeElectronics/videos<br> <br>
+https://www.youtube.com/@EdjeElectronics/videos <br> <br>
+
+https://www.youtube.com/@IdiotDeveloper/videos <br> <br>
 
 https://www.youtube.com/@ComputerVisionFoundation <br> <br>
 
