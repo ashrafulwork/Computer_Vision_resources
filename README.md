@@ -14,6 +14,8 @@ https://www.youtube.com/@PyDataTV/videos<br><br>
 
 https://www.youtube.com/@EdjeElectronics/videos <br> <br>
 
+https://www.youtube.com/watch?v=NcVgJKaFecY&list=PLdF3rLdF4ICSDzmnqIueQDdyODJB8TaA0 <br> <br>
+
 https://www.youtube.com/@IdiotDeveloper/videos <br> <br>
 
 https://www.youtube.com/@ComputerVisionFoundation <br> <br>
