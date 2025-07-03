@@ -10,6 +10,8 @@ https://arxiv.org/pdf/2410.17210<br> <br>
 
 https://www.youtube.com/@andreastrolle/videos <br> <br>
 
+
+A comprehensive survey of loss functions and metrics in deep learning : https://link.springer.com/content/pdf/10.1007/s10462-025-11198-7.pdf <br> <br>
 https://www.youtube.com/@PyDataTV/videos<br><br>
 
 https://www.youtube.com/@EdjeElectronics/videos <br> <br>
