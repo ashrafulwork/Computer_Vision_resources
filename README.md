@@ -2,6 +2,10 @@
 All the useful materials related to Deep Learning and Computer Vision<br> <br>
 CampusX (HINDI)- https://www.youtube.com/@campusx-official/featured<br> <br>
 
+
+bbox guide : https://www.learnml.io/posts/a-guide-to-bounding-box-formats/ <br> <br>
+
+
 https://arxiv.org/pdf/2410.17210<br> <br>
 
 https://www.youtube.com/@andreastrolle/videos <br> <br>
